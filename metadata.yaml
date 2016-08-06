@@ -1,0 +1,42 @@
+_repo: La-r-tisserie-de-la-Reine-P-dauque_11645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-François
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: "At the Sign of the Reine Pédauque (French: La Rôtisserie de la reine\
+  \ Pédauque) is a historical novel by Anatole France, written in 1892 and published\
+  \ the next year. The novel tells of the tribulations of the young Jacques Ménétrier\
+  \ at the beginning of the 18th century. Its most important source is the 17th-century\
+  \ occult text Comte de Gabalis.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11645'
+  wikidata: Q1211706
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary, of Egypt, Saint -- Fiction'
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Christian women saints -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: La rôtisserie de la Reine Pédauque
+url: http://www.gutenberg.org/ebooks/11645
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_R%C3%B4tisserie_de_la_reine_P%C3%A9dauque
+- https://de.wikipedia.org/wiki/Die_Bratk%C3%BCche_zur_K%C3%B6nigin_Pedauque
+- https://en.wikipedia.org/wiki/At_the_Sign_of_the_Reine_P%C3%A9dauque
+- https://sv.wikipedia.org/wiki/Drottning_G%C3%A5sfot
