@@ -1,5 +1,8 @@
 _repo: La-r-tisserie-de-la-Reine-P-dauque_11645
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -17,6 +20,8 @@ description: "At the Sign of the Reine Pédauque (French: La Rôtisserie de la r
   \ the next year. The novel tells of the tribulations of the young Jacques Ménétrier\
   \ at the beginning of the 18th century. Its most important source is the 17th-century\
   \ occult text Comte de Gabalis.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11645#La-r-tisserie-de-la-Reine-P-dauque
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
